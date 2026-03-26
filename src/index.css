@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Taamey+David+CLM&display=swap');
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
@@ -144,7 +142,7 @@
 
 @utility bg-parchment {
   background-color: #e5d3b3;
-  background-image: url("/parchment.jpg");
+  background-image: url("./parchment.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
