@@ -1,0 +1,6 @@
+{
+	"appId": "com.remix.morphology",
+	"appName": "Remix: Morphology",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

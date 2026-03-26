@@ -1,0 +1,1441 @@
+[
+  {
+    "form": "בֵּית",
+    "morph_options": [
+      "ANcmsc",
+      "HNcmsc",
+      "HNgmsa",
+      "HNgmsc",
+      "HNp"
+    ],
+    "strongs": "1004, 1005, 1007, 1008, 1009, 1010, 1012, 1014, 1015, 1016, 1017, 1018, 1020, 1021, 1022, 1023, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1035, 1038, 1039, 1044, 1047, 1049, 1050, 1051, 1052, 1053, 358, 5854, 62",
+    "count": 37,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּבֵית",
+    "morph_options": [
+      "AC/Ncmsc",
+      "HC/Ncmsc",
+      "HC/Np"
+    ],
+    "strongs": "1004, 1005, 1008, 1010, 1020, 1024, 1026, 1031, 1034, 1035, 1038, 1039, 1042, 1043, 1046, 1047, 1048, 1053, 1054",
+    "count": 19,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בַּעַל",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1010, 1120, 1167, 1168, 1170, 1171, 1177, 1179, 1186, 1188, 1189, 4807, 7154",
+    "count": 13,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בֶּן",
+    "morph_options": [
+      "HNcmsc",
+      "HNgmsc",
+      "HNp"
+    ],
+    "strongs": "1121, 1125, 1126, 1127, 1128, 1130, 1133, 1135, 1136, 1145, 1151",
+    "count": 11,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עֵין",
+    "morph_options": [
+      "HNcbsc",
+      "HNp"
+    ],
+    "strongs": "5869, 5872, 5873, 5874, 5875, 5878, 5880, 5882, 5883, 5885, 5887",
+    "count": 11,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בֵית",
+    "morph_options": [
+      "ANcmsc",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1004, 1005, 1008, 1013, 1032, 1035, 1041, 1043, 1049, 1053",
+    "count": 10,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אֵל",
+    "morph_options": [
+      "ANcmsa",
+      "HNcmsa",
+      "HNcmsc",
+      "HNp",
+      "HPdxcp"
+    ],
+    "strongs": "1008, 3317, 352, 4027, 410, 411, 412, 6005, 6214",
+    "count": 9,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אָבֵל",
+    "morph_options": [
+      "HAamsa",
+      "HNp"
+    ],
+    "strongs": "57, 59, 62, 63, 64, 65, 66, 67",
+    "count": 8,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לְבֵית",
+    "morph_options": [
+      "AR/Ncmsc",
+      "HR/Ncmsc",
+      "HR/Np"
+    ],
+    "strongs": "1004, 1005, 1008, 1026, 1032, 1033, 1050",
+    "count": 7,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּבֵית",
+    "morph_options": [
+      "AR/Ncmsc",
+      "HR/Ncmsc",
+      "HR/Np"
+    ],
+    "strongs": "1004, 1005, 1008, 1035, 1036, 1052, 1053",
+    "count": 7,
+    "is_ambiguous": true
+  },
+  {
+    "form": "קִרְיַת",
+    "morph_options": [
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "7151, 7153, 7154, 7155, 7157, 7158",
+    "count": 6,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּבַעַל",
+    "morph_options": [
+      "HR/Np"
+    ],
+    "strongs": "1174, 1176, 1178, 1187, 1188, 1193",
+    "count": 6,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְעֵין",
+    "morph_options": [
+      "AC/Ncfsc",
+      "HC/Ncbsc",
+      "HC/Np"
+    ],
+    "strongs": "5869, 5870, 5872, 5873, 5876, 5877",
+    "count": 6,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מֶלֶךְ",
+    "morph_options": [
+      "ANcmsa",
+      "ANcmsc",
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "4428, 4430, 5419, 5663, 7278",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שׁוּעַ",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1340, 4444, 7769, 7770, 7774",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רִמּוֹן",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1667, 1910, 5884, 7416, 7417",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בָּעַל",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1120, 1167, 1168, 1485, 4807",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רַב",
+    "morph_options": [
+      "AAamsa",
+      "AAamsc",
+      "HAamsa",
+      "HAamsc",
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "7227, 7229, 7248, 7249, 7262",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מִבֵּית",
+    "morph_options": [
+      "HR/Ncmsc",
+      "HR/Np"
+    ],
+    "strongs": "1004, 1008, 1020, 1035, 1052",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אַל",
+    "morph_options": [
+      "ATn",
+      "HTn"
+    ],
+    "strongs": "3808, 408, 409, 413, 516",
+    "count": 5,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שֵׁת",
+    "morph_options": [
+      "AAcbsa",
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "8351, 8352, 8353, 8357",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּנֵי",
+    "morph_options": [
+      "ANcmpc",
+      "HNcmpc",
+      "HNgmpc",
+      "HNp"
+    ],
+    "strongs": "1121, 1123, 1145, 885",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חָנָן",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "1135, 1177, 2605, 358",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בַּת",
+    "morph_options": [
+      "HNcbsa",
+      "HNcfsa",
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "1323, 1324, 1337, 1339",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לוֹ",
+    "morph_options": [
+      "HR/Sp3ms"
+    ],
+    "strongs": "3789, 5456, 7592",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אֲבִי",
+    "morph_options": [
+      "HNcmsc",
+      "HNgmsa",
+      "HNp"
+    ],
+    "strongs": "1, 21, 33, 45",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עִיר",
+    "morph_options": [
+      "ANcmsa",
+      "HNcfsa",
+      "HNcfsc",
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "5892, 5893, 5894, 5904",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לֹא",
+    "morph_options": [
+      "HTn"
+    ],
+    "strongs": "3808, 3818, 3819, 3863",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "צוּר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1049, 6301, 6697, 6698",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לָחֶם",
+    "morph_options": [
+      "HNcbsa",
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1035, 3433, 3899, 3901",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שֶׁבַע",
+    "morph_options": [
+      "HAcfsa"
+    ],
+    "strongs": "1339, 7651, 7652, 884",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עַד",
+    "morph_options": [
+      "AR",
+      "HD",
+      "HNcmsa",
+      "HNcmsc",
+      "HR"
+    ],
+    "strongs": "5703, 5704, 5705, 5706",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּבְבֵית",
+    "morph_options": [
+      "HC/R/Ncmsc",
+      "HC/R/Np"
+    ],
+    "strongs": "1004, 1011, 1024, 1046",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עַל",
+    "morph_options": [
+      "AR",
+      "AVqp3ms",
+      "HNcmsa",
+      "HR"
+    ],
+    "strongs": "5920, 5921, 5922, 5954",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "גַּת",
+    "morph_options": [
+      "HNcfsa",
+      "HNp"
+    ],
+    "strongs": "1660, 1661, 1667, 4182",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אוּלָם",
+    "morph_options": [
+      "HD",
+      "HNcmsc",
+      "HNcmsc/Sp3mp",
+      "HNp"
+    ],
+    "strongs": "193, 197, 198, 199",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בַעַל",
+    "morph_options": [
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1167, 1170, 1187, 4810",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שַׂר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "5371, 8269, 8272, 8310",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אֲדֹנִי",
+    "morph_options": [
+      "HNcmsc/Sp1cs",
+      "HNp"
+    ],
+    "strongs": "113, 136, 137, 139",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "יְמִינִי",
+    "morph_options": [
+      "HNcfsc/Sp1cs",
+      "HNgmsa"
+    ],
+    "strongs": "1145, 3225, 3227, 3228",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רָב",
+    "morph_options": [
+      "HAamsa",
+      "HNcbsc",
+      "HNcmsc",
+      "HVqp3ms",
+      "HVqrmsa"
+    ],
+    "strongs": "7227, 7230, 7232, 7378",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "גֶּבֶר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1127, 1397, 1398, 6100",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּאֵר",
+    "morph_options": [
+      "HNcfsa",
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "1192, 875, 883, 884",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מָרָה",
+    "morph_options": [
+      "HAafsa",
+      "HNp",
+      "HVqp3fs",
+      "HVqp3ms"
+    ],
+    "strongs": "4751, 4784, 4785, 4843",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רָמָה",
+    "morph_options": [
+      "HNcfsa",
+      "HNp",
+      "HVqp3fs",
+      "HVqp3ms",
+      "HVqrfsa"
+    ],
+    "strongs": "7311, 7411, 7413, 7414",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אִי",
+    "morph_options": [
+      "HTj"
+    ],
+    "strongs": "336, 337, 339, 350",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חֲצַר",
+    "morph_options": [
+      "HNcbsc",
+      "HNp"
+    ],
+    "strongs": "2691, 2692, 2703, 2704",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שְׁנַת",
+    "morph_options": [
+      "ANcfsc",
+      "HNcfsc"
+    ],
+    "strongs": "8140, 8141, 8142, 8153",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "תָּמָר",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1193, 2688, 8558, 8559",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מִנִּי",
+    "morph_options": [
+      "AR/Sp1cs",
+      "HNp",
+      "HR",
+      "HR/Sp1cs"
+    ],
+    "strongs": "4480, 4481, 4482, 4508",
+    "count": 4,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּבְנֵי",
+    "morph_options": [
+      "AC/Ncmpc",
+      "HC/Ncmpc",
+      "HC/Np"
+    ],
+    "strongs": "1121, 1123, 1139",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "כָּל",
+    "morph_options": [
+      "AC/C",
+      "ANcmsa",
+      "ANcmsc",
+      "AVqi3fs",
+      "HNcmsa",
+      "HNcmsc",
+      "HNp",
+      "HR/R"
+    ],
+    "strongs": "3605, 3606, 3626",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "יַעֲקָן",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "1142, 3292, 885",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "זָהָב",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1774, 2091, 4314",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "גָּד",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "1171, 1410, 4028",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "פֶּרֶץ",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "6556, 6557, 6560",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חוּר",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1133, 2353, 2354",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "יָאִיר",
+    "morph_options": [
+      "HNp",
+      "HVhi3ms"
+    ],
+    "strongs": "215, 2334, 2971",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אוֹנָם",
+    "morph_options": [
+      "HNcmsc/Sp3mp",
+      "HNp"
+    ],
+    "strongs": "202, 205, 208",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עֶבֶד",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "5650, 5651, 5663",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּבֶן",
+    "morph_options": [
+      "HC/Ncmsc",
+      "HC/Np"
+    ],
+    "strongs": "1121, 1130, 1132",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מַעֲכָה",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "1038, 4601, 62",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שֶׁבֶר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "7667, 7668, 7669",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "הָרֹאֶה",
+    "morph_options": [
+      "HNp",
+      "HTd/Ncmsa",
+      "HTd/Vqrmsa"
+    ],
+    "strongs": "7200, 7203, 7204",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בֶן",
+    "morph_options": [
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1121, 1130, 1145",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לְבַת",
+    "morph_options": [
+      "HR/Ncfsa",
+      "HR/Ncfsc",
+      "HR/Np"
+    ],
+    "strongs": "1323, 1339, 1340",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אָמוֹן",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "525, 526, 528",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חֶסֶד",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1136, 2617, 3142",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שִׁבְעָה",
+    "morph_options": [
+      "AAcbsa",
+      "AAcmsa",
+      "HAcmsa"
+    ],
+    "strongs": "7651, 7655, 7656",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְעֵזֶר",
+    "morph_options": [
+      "HC/Ncmsa",
+      "HC/Np"
+    ],
+    "strongs": "5827, 5828, 5829",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "נָחָשׁ",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "5175, 5176, 5904",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חֲרָשִׁים",
+    "morph_options": [
+      "HNcmpa",
+      "HNp"
+    ],
+    "strongs": "2791, 2796, 2798",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "פַּרְעֹה",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "6547, 6548, 6549",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שִׁמְעִי",
+    "morph_options": [
+      "HNcmsc/Sp1cs",
+      "HNp",
+      "HVqv2fs"
+    ],
+    "strongs": "8085, 8088, 8096",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רַבִּים",
+    "morph_options": [
+      "HAampa",
+      "HNcmpa",
+      "HNp"
+    ],
+    "strongs": "1337, 7227, 7228",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וַחֲצַר",
+    "morph_options": [
+      "HC/Np"
+    ],
+    "strongs": "2693, 2701, 2705",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שׁוּעָל",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "2705, 7776, 7777",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְכָל",
+    "morph_options": [
+      "AC/Ncmsa",
+      "AC/Ncmsc",
+      "HC/Ncmsc",
+      "HC/Vqp3ms",
+      "HR/Ncmsc"
+    ],
+    "strongs": "3557, 3605, 3606",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אַלּוֹן",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "437, 438, 439",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּאֵרָה",
+    "morph_options": [
+      "HNp",
+      "HNp/Sd"
+    ],
+    "strongs": "876, 880, 884",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּבַעַל",
+    "morph_options": [
+      "HC/Ncmsc",
+      "HC/Np"
+    ],
+    "strongs": "1167, 1168, 1186",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מְעוֹן",
+    "morph_options": [
+      "HNcbsc",
+      "HNp"
+    ],
+    "strongs": "1010, 1186, 4583",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חַיִל",
+    "morph_options": [
+      "ANcmsa",
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "1134, 2428, 2429",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּנוֹת",
+    "morph_options": [
+      "HNcfpc",
+      "HNp",
+      "HVqc"
+    ],
+    "strongs": "1129, 1323, 5524",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְעַל",
+    "morph_options": [
+      "AC/R",
+      "HC/R"
+    ],
+    "strongs": "5764, 5921, 5922",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עָשָׁן",
+    "morph_options": [
+      "HNcmsa",
+      "HNp"
+    ],
+    "strongs": "3565, 6227, 6228",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שֶׁמֶשׁ",
+    "morph_options": [
+      "HNcbsa",
+      "HNcbsc",
+      "HNp"
+    ],
+    "strongs": "1053, 5885, 8121",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רָאמוֹת",
+    "morph_options": [
+      "HNcfpa",
+      "HNp",
+      "HVqrfpa"
+    ],
+    "strongs": "7215, 7216, 7311",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מָשָׁל",
+    "morph_options": [
+      "HNcmsa",
+      "HNp",
+      "HVqp3ms"
+    ],
+    "strongs": "4910, 4912, 4913",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "יָשׁוּב",
+    "morph_options": [
+      "HNp",
+      "HVqi3ms"
+    ],
+    "strongs": "3437, 7610, 7725",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בֵּן",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1121, 1122, 996",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "דּוֹר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1755, 1756, 5874",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אַדָּר",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "146, 2692, 5853",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אוֹנוֹ",
+    "morph_options": [
+      "HNcmsc/Sp3ms",
+      "HNp"
+    ],
+    "strongs": "202, 205, 207",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְאַף",
+    "morph_options": [
+      "AC/Ta",
+      "HC/D",
+      "HC/Ncmsc"
+    ],
+    "strongs": "637, 638, 639",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מַלְכִּי",
+    "morph_options": [
+      "HNcmsc/Sp1cs",
+      "HNp"
+    ],
+    "strongs": "4428, 4442, 4444",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אִישׁ",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "1145, 376, 378",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בָהּ",
+    "morph_options": [
+      "HNp",
+      "HR/Sp3fs"
+    ],
+    "strongs": "2657, 5221",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "לְךָ",
+    "morph_options": [
+      "HR/Sp2ms",
+      "HVqv2ms"
+    ],
+    "strongs": "3212, 3772",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "עַמִּי",
+    "morph_options": [
+      "HNcmsc/Sp1cs",
+      "HNp"
+    ],
+    "strongs": "1151, 3818, 5971",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בְּרִית",
+    "morph_options": [
+      "HNcfsa",
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "1170, 1285, 1286",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "כֵּן",
+    "morph_options": [
+      "AAampa",
+      "HTm"
+    ],
+    "strongs": "3651, 3652, 3653",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חֶלְקַת",
+    "morph_options": [
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "2513, 2520, 2521",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שַׁמּוֹת",
+    "morph_options": [
+      "HNcfpa",
+      "HNp",
+      "HVqc"
+    ],
+    "strongs": "8047, 8054, 8074",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שָׁלֵם",
+    "morph_options": [
+      "HAamsa",
+      "HNp"
+    ],
+    "strongs": "3824, 8003, 8004",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "טוֹב",
+    "morph_options": [
+      "HAamsa",
+      "HAamsc",
+      "HNp",
+      "HVqp3ms"
+    ],
+    "strongs": "2895, 2896, 2897",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מִצְרַיִם",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "4713, 4714, 67",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "קִיר",
+    "morph_options": [
+      "HNcmsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "7023, 7024, 7025",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "בָּנוּ",
+    "morph_options": [
+      "HR/Sp1cp",
+      "HVqp1cp",
+      "HVqp3cp"
+    ],
+    "strongs": "1129, 935",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וּשְׁאָר",
+    "morph_options": [
+      "AC/Ncmsc",
+      "HC/Ncmsa",
+      "HC/Ncmsc",
+      "HC/Np"
+    ],
+    "strongs": "7605, 7606, 7610",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אָסִיר",
+    "morph_options": [
+      "HNcmsa",
+      "HVhi1cs"
+    ],
+    "strongs": "5493, 615, 616",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "כֵן",
+    "morph_options": [
+      "HAamsa",
+      "HD",
+      "HNcmsa",
+      "HNcmsc"
+    ],
+    "strongs": "3651, 3653, 3654",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "צוֹבָה",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "2578, 6678, 760",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אֲרַם",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "758, 760, 763",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "רַבָּה",
+    "morph_options": [
+      "HAafsa",
+      "HNp"
+    ],
+    "strongs": "2579, 7227, 7237",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וַיָּצַר",
+    "morph_options": [
+      "HC/Vhw3ms",
+      "HC/Vqw3ms"
+    ],
+    "strongs": "3335, 6696, 6887",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אֶבֶן",
+    "morph_options": [
+      "ANcfsa",
+      "ANcfsc",
+      "HNcfsa",
+      "HNcfsc",
+      "HNp"
+    ],
+    "strongs": "68, 69, 72",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אַרְבַּע",
+    "morph_options": [
+      "AAcbsa",
+      "HAcfsa"
+    ],
+    "strongs": "702, 703, 7153",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "נָא",
+    "morph_options": [
+      "HTe"
+    ],
+    "strongs": "4994, 4995, 7080",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מָה",
+    "morph_options": [
+      "APfxbs",
+      "APixbs",
+      "ATi",
+      "HTi"
+    ],
+    "strongs": "1099, 4100, 4101",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "אָבִי",
+    "morph_options": [
+      "HNcmsc/Sp1cs",
+      "HNp",
+      "HTe",
+      "HTj",
+      "HVhi1cs"
+    ],
+    "strongs": "1, 15, 935",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "קֹרֵא",
+    "morph_options": [
+      "HNcmsa",
+      "HNp",
+      "HVqrmsa"
+    ],
+    "strongs": "6981, 7121, 7124",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "חַי",
+    "morph_options": [
+      "HAamsa",
+      "HNcbsa",
+      "HVqp3ms"
+    ],
+    "strongs": "2416, 2421, 2425",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "צָרָה",
+    "morph_options": [
+      "HAafsa",
+      "HNcfsa",
+      "HVqp3fs"
+    ],
+    "strongs": "6862, 6869, 6887",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "קֶרֶן",
+    "morph_options": [
+      "ANcfsa",
+      "HNcbsa",
+      "HNcbsc",
+      "HNp"
+    ],
+    "strongs": "7161, 7162, 7163",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "וְטוֹב",
+    "morph_options": [
+      "HC/Aamsa",
+      "HC/Aamsc",
+      "HC/Np",
+      "HC/Vqp3ms",
+      "HC/Vqq3ms"
+    ],
+    "strongs": "2895, 2896, 2899",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שָׁמֶשׁ",
+    "morph_options": [
+      "HNcbsa",
+      "HNp"
+    ],
+    "strongs": "1053, 5905, 8121",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "דֹּאר",
+    "morph_options": [
+      "HNp"
+    ],
+    "strongs": "1756, 2576, 5874",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "שׁוּשַׁן",
+    "morph_options": [
+      "HNcbsa",
+      "HNcmsc",
+      "HNp"
+    ],
+    "strongs": "7799, 7800, 7802",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "מוּצָק",
+    "morph_options": [
+      "HNcmsa",
+      "HVHsmsa"
+    ],
+    "strongs": "3332, 4164, 4165",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "סֻכּוֹת",
+    "morph_options": [
+      "HNcfpa",
+      "HNp"
+    ],
+    "strongs": "5521, 5523, 5524",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "הַבַּדִּים",
+    "morph_options": [
+      "HTd/Ncmpa"
+    ],
+    "strongs": "905, 906, 907",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "יָצַר",
+    "morph_options": [
+      "HVhi3ms",
+      "HVqp3ms"
+    ],
+    "strongs": "3335, 6696, 6887",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "הָעֶרֶב",
+    "morph_options": [
+      "HTd/Ncmsa"
+    ],
+    "strongs": "6152, 6153, 6154",
+    "count": 3,
+    "is_ambiguous": true
+  },
+  {
+    "form": "נַחֲלָה",
+    "morph_options": [
+      "HNcfsa",
+      "HNp",
+      "HVNrfsa"
+    ],
+    "strongs": "2470, 5158, 5159",
+    "count": 3,
+    "is_ambiguous": true
+  }
+]
