@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: 'SBL Hebrew';
-  src: url('/SBL_Hbrw.ttf') format('truetype');
+  src: url('./SBL_Hbrw.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -140,9 +140,9 @@
     }
 }
 
-@utility bg-parchment {
+.bg-parchment {
   background-color: #e5d3b3;
-  background-image: url("/parchment.jpg");
+  background-image: url("./parchment.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
